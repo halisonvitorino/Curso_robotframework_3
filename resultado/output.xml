@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<robot generator="Robot 4.1.3 (Python 3.9.6 on win32)" generated="20220106 16:07:21.227" rpa="false" schemaversion="2">
+<robot generator="Robot 4.1.3 (Python 3.9.6 on win32)" generated="20220106 16:18:50.580" rpa="false" schemaversion="2">
 <suite id="s1" name="Busca" source="C:\Users\halison.r.vitorino\git\Curso_robotframework_3\Tests\busca.robot">
 <test id="s1-t1" name="Deve buscar um unico restaurante">
-<kw name="Start Session" library="search">
+<kw name="Start Session" library="base">
 <kw name="New Browser" library="Browser">
 <arg>chromium</arg>
 <arg>false</arg>
 <tag>BrowserControl</tag>
 <tag>Setter</tag>
 <doc>Create a new playwright Browser with specified options.</doc>
-<msg timestamp="20220106 16:07:23.407" level="INFO">{"browser": "chromium", "headless": false, "handleSIGINT": true, "handleSIGTERM": true, "handleSIGHUP": true, "timeout": 30000.0, "devtools": false, "slowMo": 0.0, "tracesDir": "C:\\Users\\halison.r.vitorino\\git\\Curso_robotframework_3\\resultado\\browser\\traces\\aed16c62-8f1b-4cb4-b67b-42e2f7f8b1e0"}</msg>
-<msg timestamp="20220106 16:07:26.167" level="INFO">Successfully created browser with options: {"browser":"chromium","headless":false,"handleSIGINT":true,"handleSIGTERM":true,"handleSIGHUP":true,"timeout":30000,"devtools":false,"slowMo":0,"tracesDir":"C:\\Users\\halison.r.vitorino\\git\\Curso_robotframework_3\\resultado\\browser\\traces\\aed16c62-8f1b-4cb4-b67b-42e2f7f8b1e0"}</msg>
-<status status="PASS" starttime="20220106 16:07:23.407" endtime="20220106 16:07:26.167"/>
+<msg timestamp="20220106 16:18:52.799" level="INFO">{"browser": "chromium", "headless": false, "handleSIGINT": true, "handleSIGTERM": true, "handleSIGHUP": true, "timeout": 30000.0, "devtools": false, "slowMo": 0.0, "tracesDir": "C:\\Users\\halison.r.vitorino\\git\\Curso_robotframework_3\\resultado\\browser\\traces\\d591911d-1655-4877-a893-4b8ebfdf9824"}</msg>
+<msg timestamp="20220106 16:18:55.583" level="INFO">Successfully created browser with options: {"browser":"chromium","headless":false,"handleSIGINT":true,"handleSIGTERM":true,"handleSIGHUP":true,"timeout":30000,"devtools":false,"slowMo":0,"tracesDir":"C:\\Users\\halison.r.vitorino\\git\\Curso_robotframework_3\\resultado\\browser\\traces\\d591911d-1655-4877-a893-4b8ebfdf9824"}</msg>
+<status status="PASS" starttime="20220106 16:18:52.798" endtime="20220106 16:18:55.583"/>
 </kw>
 <kw name="New Page" library="Browser">
 <arg>https://parodifood.herokuapp.com</arg>
 <tag>BrowserControl</tag>
 <tag>Setter</tag>
 <doc>Open a new Page.</doc>
-<msg timestamp="20220106 16:07:30.244" level="INFO">Successfully initialized new page object and opened url: https://parodifood.herokuapp.com</msg>
-<msg timestamp="20220106 16:07:30.244" level="INFO">No context was open. New context was automatically opened when this page is created.</msg>
-<status status="PASS" starttime="20220106 16:07:26.167" endtime="20220106 16:07:30.244"/>
+<msg timestamp="20220106 16:19:00.131" level="INFO">Successfully initialized new page object and opened url: https://parodifood.herokuapp.com</msg>
+<msg timestamp="20220106 16:19:00.131" level="INFO">No context was open. New context was automatically opened when this page is created.</msg>
+<status status="PASS" starttime="20220106 16:18:55.583" endtime="20220106 16:19:00.131"/>
 </kw>
 <kw name="Get Text" library="Browser">
 <arg>//span[contains(text(),'Nunca foi tão engraçado pedir comida')]</arg>
@@ -30,9 +30,9 @@
 <tag>Getter</tag>
 <tag>PageContent</tag>
 <doc>Returns text attribute of the element found by ``selector``.</doc>
-<status status="PASS" starttime="20220106 16:07:30.245" endtime="20220106 16:07:30.418"/>
+<status status="PASS" starttime="20220106 16:19:00.131" endtime="20220106 16:19:00.294"/>
 </kw>
-<status status="PASS" starttime="20220106 16:07:23.407" endtime="20220106 16:07:30.418"/>
+<status status="PASS" starttime="20220106 16:18:52.797" endtime="20220106 16:19:00.294"/>
 </kw>
 <kw name="Go To restaurants Page" library="search">
 <kw name="Click" library="Browser">
@@ -40,7 +40,7 @@
 <tag>PageContent</tag>
 <tag>Setter</tag>
 <doc>Simulates mouse click on the element found by ``selector``.</doc>
-<status status="PASS" starttime="20220106 16:07:30.419" endtime="20220106 16:07:30.647"/>
+<status status="PASS" starttime="20220106 16:19:00.297" endtime="20220106 16:19:00.517"/>
 </kw>
 <kw name="Get Text" library="Browser">
 <arg>h1 strong</arg>
@@ -50,9 +50,9 @@
 <tag>Getter</tag>
 <tag>PageContent</tag>
 <doc>Returns text attribute of the element found by ``selector``.</doc>
-<status status="PASS" starttime="20220106 16:07:30.647" endtime="20220106 16:07:30.667"/>
+<status status="PASS" starttime="20220106 16:19:00.517" endtime="20220106 16:19:00.556"/>
 </kw>
-<status status="PASS" starttime="20220106 16:07:30.418" endtime="20220106 16:07:30.668"/>
+<status status="PASS" starttime="20220106 16:19:00.296" endtime="20220106 16:19:00.557"/>
 </kw>
 <kw name="Search Restaurants By" library="search">
 <arg>Debuger</arg>
@@ -61,7 +61,7 @@
 <tag>PageContent</tag>
 <tag>Setter</tag>
 <doc>Simulates mouse click on the element found by ``selector``.</doc>
-<status status="PASS" starttime="20220106 16:07:30.668" endtime="20220106 16:07:30.721"/>
+<status status="PASS" starttime="20220106 16:19:00.557" endtime="20220106 16:19:00.655"/>
 </kw>
 <kw name="Fill Text" library="Browser">
 <arg>input[formcontrolname="searchControl"]</arg>
@@ -69,10 +69,10 @@
 <tag>PageContent</tag>
 <tag>Setter</tag>
 <doc>Clears and fills the given ``txt`` into the text field found by ``selector``.</doc>
-<msg timestamp="20220106 16:07:30.722" level="INFO">Fills the text 'Debuger' in the given field.</msg>
-<status status="PASS" starttime="20220106 16:07:30.722" endtime="20220106 16:07:30.742"/>
+<msg timestamp="20220106 16:19:00.655" level="INFO">Fills the text 'Debuger' in the given field.</msg>
+<status status="PASS" starttime="20220106 16:19:00.655" endtime="20220106 16:19:00.682"/>
 </kw>
-<status status="PASS" starttime="20220106 16:07:30.668" endtime="20220106 16:07:30.742"/>
+<status status="PASS" starttime="20220106 16:19:00.557" endtime="20220106 16:19:00.682"/>
 </kw>
 <kw name="Validate Search" library="search">
 <arg>DEBUGER KING</arg>
@@ -84,8 +84,8 @@
 <tag>PageContent</tag>
 <tag>Wait</tag>
 <doc>Waits for the element found by ``selector`` to satisfy state option.</doc>
-<msg timestamp="20220106 16:07:31.428" level="INFO">Waited for Element with selector span[class="place-info-box-text"] at state visible</msg>
-<status status="PASS" starttime="20220106 16:07:30.743" endtime="20220106 16:07:31.428"/>
+<msg timestamp="20220106 16:19:01.366" level="INFO">Waited for Element with selector span[class="place-info-box-text"] at state visible</msg>
+<status status="PASS" starttime="20220106 16:19:00.683" endtime="20220106 16:19:01.366"/>
 </kw>
 <kw name="Get Text" library="Browser">
 <arg>${Div_Restaurant}</arg>
@@ -95,7 +95,7 @@
 <tag>Getter</tag>
 <tag>PageContent</tag>
 <doc>Returns text attribute of the element found by ``selector``.</doc>
-<status status="PASS" starttime="20220106 16:07:31.428" endtime="20220106 16:07:31.440"/>
+<status status="PASS" starttime="20220106 16:19:01.367" endtime="20220106 16:19:01.384"/>
 </kw>
 <kw name="Get Element Count" library="Browser">
 <arg>${Div_Restaurant}</arg>
@@ -105,46 +105,39 @@
 <tag>Getter</tag>
 <tag>PageContent</tag>
 <doc>Returns the count of elements found with ``selector``.</doc>
-<status status="PASS" starttime="20220106 16:07:31.440" endtime="20220106 16:07:31.447"/>
+<status status="PASS" starttime="20220106 16:19:01.384" endtime="20220106 16:19:01.390"/>
 </kw>
-<kw name="Take Screenshot" library="Browser">
-<arg>${Evidencia}</arg>
+<status status="PASS" starttime="20220106 16:19:00.682" endtime="20220106 16:19:01.390"/>
+</kw>
+<kw name="Take Screenshot" library="Browser" type="TEARDOWN">
+<arg>pass-screenshot-{index}</arg>
 <tag>PageContent</tag>
 <doc>Takes a screenshot of the current window or element and saves it to disk.</doc>
-<msg timestamp="20220106 16:07:31.692" level="INFO" html="true">&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;a href="browser/screenshot/pass-screenshot-1.png"&gt;&lt;img src="browser/screenshot/pass-screenshot-1.png" width="800px"&gt;&lt;/a&gt;</msg>
-<status status="PASS" starttime="20220106 16:07:31.447" endtime="20220106 16:07:31.692"/>
+<msg timestamp="20220106 16:19:01.612" level="INFO" html="true">&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;a href="browser/screenshot/pass-screenshot-1.png"&gt;&lt;img src="browser/screenshot/pass-screenshot-1.png" width="800px"&gt;&lt;/a&gt;</msg>
+<status status="PASS" starttime="20220106 16:19:01.390" endtime="20220106 16:19:01.612"/>
 </kw>
-<status status="PASS" starttime="20220106 16:07:30.742" endtime="20220106 16:07:31.692"/>
-</kw>
-<kw name="Close Browser" library="Browser">
-<tag>BrowserControl</tag>
-<tag>Setter</tag>
-<doc>Closes the current browser.</doc>
-<msg timestamp="20220106 16:07:32.060" level="INFO">Closed browser</msg>
-<status status="PASS" starttime="20220106 16:07:31.693" endtime="20220106 16:07:32.060"/>
-</kw>
-<status status="PASS" starttime="20220106 16:07:23.375" endtime="20220106 16:07:32.061"/>
+<status status="PASS" starttime="20220106 16:18:52.766" endtime="20220106 16:19:01.612"/>
 </test>
 <test id="s1-t2" name="Deve buscar por categoria">
-<kw name="Start Session" library="search">
+<kw name="Start Session" library="base">
 <kw name="New Browser" library="Browser">
 <arg>chromium</arg>
 <arg>false</arg>
 <tag>BrowserControl</tag>
 <tag>Setter</tag>
 <doc>Create a new playwright Browser with specified options.</doc>
-<msg timestamp="20220106 16:07:32.068" level="INFO">{"browser": "chromium", "headless": false, "handleSIGINT": true, "handleSIGTERM": true, "handleSIGHUP": true, "timeout": 30000.0, "devtools": false, "slowMo": 0.0, "tracesDir": "C:\\Users\\halison.r.vitorino\\git\\Curso_robotframework_3\\resultado\\browser\\traces\\187ea661-1a9b-48f5-94ad-b8abdc36534d"}</msg>
-<msg timestamp="20220106 16:07:34.632" level="INFO">Successfully created browser with options: {"browser":"chromium","headless":false,"handleSIGINT":true,"handleSIGTERM":true,"handleSIGHUP":true,"timeout":30000,"devtools":false,"slowMo":0,"tracesDir":"C:\\Users\\halison.r.vitorino\\git\\Curso_robotframework_3\\resultado\\browser\\traces\\187ea661-1a9b-48f5-94ad-b8abdc36534d"}</msg>
-<status status="PASS" starttime="20220106 16:07:32.067" endtime="20220106 16:07:34.632"/>
+<msg timestamp="20220106 16:19:01.776" level="INFO">{"browser": "chromium", "headless": false, "handleSIGINT": true, "handleSIGTERM": true, "handleSIGHUP": true, "timeout": 30000.0, "devtools": false, "slowMo": 0.0, "tracesDir": "C:\\Users\\halison.r.vitorino\\git\\Curso_robotframework_3\\resultado\\browser\\traces\\874c7277-a4e9-402a-9456-49445b271553"}</msg>
+<msg timestamp="20220106 16:19:04.677" level="INFO">Successfully created browser with options: {"browser":"chromium","headless":false,"handleSIGINT":true,"handleSIGTERM":true,"handleSIGHUP":true,"timeout":30000,"devtools":false,"slowMo":0,"tracesDir":"C:\\Users\\halison.r.vitorino\\git\\Curso_robotframework_3\\resultado\\browser\\traces\\874c7277-a4e9-402a-9456-49445b271553"}</msg>
+<status status="PASS" starttime="20220106 16:19:01.775" endtime="20220106 16:19:04.677"/>
 </kw>
 <kw name="New Page" library="Browser">
 <arg>https://parodifood.herokuapp.com</arg>
 <tag>BrowserControl</tag>
 <tag>Setter</tag>
 <doc>Open a new Page.</doc>
-<msg timestamp="20220106 16:07:38.865" level="INFO">Successfully initialized new page object and opened url: https://parodifood.herokuapp.com</msg>
-<msg timestamp="20220106 16:07:38.865" level="INFO">No context was open. New context was automatically opened when this page is created.</msg>
-<status status="PASS" starttime="20220106 16:07:34.632" endtime="20220106 16:07:38.865"/>
+<msg timestamp="20220106 16:19:09.227" level="INFO">Successfully initialized new page object and opened url: https://parodifood.herokuapp.com</msg>
+<msg timestamp="20220106 16:19:09.227" level="INFO">No context was open. New context was automatically opened when this page is created.</msg>
+<status status="PASS" starttime="20220106 16:19:04.677" endtime="20220106 16:19:09.227"/>
 </kw>
 <kw name="Get Text" library="Browser">
 <arg>//span[contains(text(),'Nunca foi tão engraçado pedir comida')]</arg>
@@ -154,9 +147,9 @@
 <tag>Getter</tag>
 <tag>PageContent</tag>
 <doc>Returns text attribute of the element found by ``selector``.</doc>
-<status status="PASS" starttime="20220106 16:07:38.866" endtime="20220106 16:07:39.023"/>
+<status status="PASS" starttime="20220106 16:19:09.227" endtime="20220106 16:19:09.394"/>
 </kw>
-<status status="PASS" starttime="20220106 16:07:32.067" endtime="20220106 16:07:39.023"/>
+<status status="PASS" starttime="20220106 16:19:01.772" endtime="20220106 16:19:09.394"/>
 </kw>
 <kw name="Go To restaurants Page" library="search">
 <kw name="Click" library="Browser">
@@ -164,7 +157,7 @@
 <tag>PageContent</tag>
 <tag>Setter</tag>
 <doc>Simulates mouse click on the element found by ``selector``.</doc>
-<status status="PASS" starttime="20220106 16:07:39.024" endtime="20220106 16:07:39.259"/>
+<status status="PASS" starttime="20220106 16:19:09.395" endtime="20220106 16:19:09.645"/>
 </kw>
 <kw name="Get Text" library="Browser">
 <arg>h1 strong</arg>
@@ -174,9 +167,9 @@
 <tag>Getter</tag>
 <tag>PageContent</tag>
 <doc>Returns text attribute of the element found by ``selector``.</doc>
-<status status="PASS" starttime="20220106 16:07:39.260" endtime="20220106 16:07:39.297"/>
+<status status="PASS" starttime="20220106 16:19:09.645" endtime="20220106 16:19:09.682"/>
 </kw>
-<status status="PASS" starttime="20220106 16:07:39.024" endtime="20220106 16:07:39.298"/>
+<status status="PASS" starttime="20220106 16:19:09.394" endtime="20220106 16:19:09.682"/>
 </kw>
 <kw name="Search Restaurants By" library="search">
 <arg>cafe</arg>
@@ -185,7 +178,7 @@
 <tag>PageContent</tag>
 <tag>Setter</tag>
 <doc>Simulates mouse click on the element found by ``selector``.</doc>
-<status status="PASS" starttime="20220106 16:07:39.299" endtime="20220106 16:07:39.389"/>
+<status status="PASS" starttime="20220106 16:19:09.683" endtime="20220106 16:19:09.775"/>
 </kw>
 <kw name="Fill Text" library="Browser">
 <arg>input[formcontrolname="searchControl"]</arg>
@@ -193,10 +186,10 @@
 <tag>PageContent</tag>
 <tag>Setter</tag>
 <doc>Clears and fills the given ``txt`` into the text field found by ``selector``.</doc>
-<msg timestamp="20220106 16:07:39.389" level="INFO">Fills the text 'cafe' in the given field.</msg>
-<status status="PASS" starttime="20220106 16:07:39.389" endtime="20220106 16:07:39.411"/>
+<msg timestamp="20220106 16:19:09.776" level="INFO">Fills the text 'cafe' in the given field.</msg>
+<status status="PASS" starttime="20220106 16:19:09.775" endtime="20220106 16:19:09.795"/>
 </kw>
-<status status="PASS" starttime="20220106 16:07:39.298" endtime="20220106 16:07:39.412"/>
+<status status="PASS" starttime="20220106 16:19:09.682" endtime="20220106 16:19:09.795"/>
 </kw>
 <kw name="Validate Search" library="search">
 <arg>STARBUGS COFFEE</arg>
@@ -208,8 +201,8 @@
 <tag>PageContent</tag>
 <tag>Wait</tag>
 <doc>Waits for the element found by ``selector`` to satisfy state option.</doc>
-<msg timestamp="20220106 16:07:40.150" level="INFO">Waited for Element with selector span[class="place-info-box-text"] at state visible</msg>
-<status status="PASS" starttime="20220106 16:07:39.412" endtime="20220106 16:07:40.150"/>
+<msg timestamp="20220106 16:19:10.518" level="INFO">Waited for Element with selector span[class="place-info-box-text"] at state visible</msg>
+<status status="PASS" starttime="20220106 16:19:09.796" endtime="20220106 16:19:10.518"/>
 </kw>
 <kw name="Get Text" library="Browser">
 <arg>${Div_Restaurant}</arg>
@@ -219,7 +212,7 @@
 <tag>Getter</tag>
 <tag>PageContent</tag>
 <doc>Returns text attribute of the element found by ``selector``.</doc>
-<status status="PASS" starttime="20220106 16:07:40.150" endtime="20220106 16:07:40.164"/>
+<status status="PASS" starttime="20220106 16:19:10.519" endtime="20220106 16:19:10.531"/>
 </kw>
 <kw name="Get Element Count" library="Browser">
 <arg>${Div_Restaurant}</arg>
@@ -229,27 +222,20 @@
 <tag>Getter</tag>
 <tag>PageContent</tag>
 <doc>Returns the count of elements found with ``selector``.</doc>
-<status status="PASS" starttime="20220106 16:07:40.165" endtime="20220106 16:07:40.175"/>
+<status status="PASS" starttime="20220106 16:19:10.531" endtime="20220106 16:19:10.542"/>
 </kw>
-<kw name="Take Screenshot" library="Browser">
-<arg>${Evidencia}</arg>
+<status status="PASS" starttime="20220106 16:19:09.796" endtime="20220106 16:19:10.542"/>
+</kw>
+<kw name="Take Screenshot" library="Browser" type="TEARDOWN">
+<arg>pass-screenshot-{index}</arg>
 <tag>PageContent</tag>
 <doc>Takes a screenshot of the current window or element and saves it to disk.</doc>
-<msg timestamp="20220106 16:07:40.455" level="INFO" html="true">&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;a href="browser/screenshot/pass-screenshot-2.png"&gt;&lt;img src="browser/screenshot/pass-screenshot-2.png" width="800px"&gt;&lt;/a&gt;</msg>
-<status status="PASS" starttime="20220106 16:07:40.175" endtime="20220106 16:07:40.455"/>
+<msg timestamp="20220106 16:19:10.783" level="INFO" html="true">&lt;/td&gt;&lt;/tr&gt;&lt;tr&gt;&lt;td colspan="3"&gt;&lt;a href="browser/screenshot/pass-screenshot-2.png"&gt;&lt;img src="browser/screenshot/pass-screenshot-2.png" width="800px"&gt;&lt;/a&gt;</msg>
+<status status="PASS" starttime="20220106 16:19:10.543" endtime="20220106 16:19:10.783"/>
 </kw>
-<status status="PASS" starttime="20220106 16:07:39.412" endtime="20220106 16:07:40.455"/>
-</kw>
-<kw name="Close Browser" library="Browser">
-<tag>BrowserControl</tag>
-<tag>Setter</tag>
-<doc>Closes the current browser.</doc>
-<msg timestamp="20220106 16:07:40.779" level="INFO">Closed browser</msg>
-<status status="PASS" starttime="20220106 16:07:40.457" endtime="20220106 16:07:40.779"/>
-</kw>
-<status status="PASS" starttime="20220106 16:07:32.064" endtime="20220106 16:07:40.780"/>
+<status status="PASS" starttime="20220106 16:19:01.762" endtime="20220106 16:19:10.786"/>
 </test>
-<status status="PASS" starttime="20220106 16:07:21.229" endtime="20220106 16:07:40.783"/>
+<status status="PASS" starttime="20220106 16:18:50.582" endtime="20220106 16:19:10.933"/>
 </suite>
 <statistics>
 <total>

@@ -1,36 +1,36 @@
-{"level":30,"time":"2022-01-06T19:07:23.155Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Listening on 61235"}
-{"level":30,"time":"2022-01-06T19:07:23.343Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2022-01-06T19:07:23.344Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2022-01-06T19:07:23.376Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2022-01-06T19:07:23.376Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2022-01-06T19:07:23.408Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method newBrowser"}
-{"level":30,"time":"2022-01-06T19:07:26.164Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method newBrowser"}
-{"level":30,"time":"2022-01-06T19:07:26.168Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method newPage"}
-{"level":30,"time":"2022-01-06T19:07:26.169Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"currentBrowser: [object Object]"}
-{"level":30,"time":"2022-01-06T19:07:26.183Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Changed active context"}
-{"level":30,"time":"2022-01-06T19:07:26.764Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Video path: undefined"}
-{"level":30,"time":"2022-01-06T19:07:26.764Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Changed active page"}
-{"level":30,"time":"2022-01-06T19:07:30.241Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method newPage"}
-{"level":30,"time":"2022-01-06T19:07:30.246Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method getText"}
-{"level":30,"time":"2022-01-06T19:07:30.247Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with //span[contains(text(),'Nunca foi tão engraçado pedir comida')] in page."}
-{"level":30,"time":"2022-01-06T19:07:30.416Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Retrieved text for element //span[contains(text(),'Nunca foi tão engraçado pedir comida')] containing Nunca foi tão engraçado pedir comida"}
-{"level":30,"time":"2022-01-06T19:07:30.416Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method getText"}
-{"level":30,"time":"2022-01-06T19:07:30.420Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method click"}
-{"level":30,"time":"2022-01-06T19:07:30.420Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with text=Estou com fome! in page."}
-{"level":30,"time":"2022-01-06T19:07:30.643Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method click"}
-{"level":30,"time":"2022-01-06T19:07:30.648Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method getText"}
-{"level":30,"time":"2022-01-06T19:07:30.648Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with h1 strong in page."}
-{"level":30,"time":"2022-01-06T19:07:30.666Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Retrieved text for element h1 strong containing Ta na hora de matar a fome!"}
-{"level":30,"time":"2022-01-06T19:07:30.666Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method getText"}
-{"level":30,"time":"2022-01-06T19:07:30.669Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method click"}
-{"level":30,"time":"2022-01-06T19:07:30.669Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with .search-link in page."}
-{"level":30,"time":"2022-01-06T19:07:30.719Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method click"}
-{"level":30,"time":"2022-01-06T19:07:30.722Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method fillText"}
-{"level":30,"time":"2022-01-06T19:07:30.723Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with input[formcontrolname=\"searchControl\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:30.740Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method fillText"}
-{"level":30,"time":"2022-01-06T19:07:30.743Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:30.743Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:30.756Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:18:52.546Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Listening on 55116"}
+{"level":30,"time":"2022-01-06T19:18:52.734Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-01-06T19:18:52.735Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-01-06T19:18:52.767Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-01-06T19:18:52.767Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-01-06T19:18:52.800Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-01-06T19:18:55.581Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-01-06T19:18:55.585Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-01-06T19:18:55.585Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-01-06T19:18:55.603Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Changed active context"}
+{"level":30,"time":"2022-01-06T19:18:56.271Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Video path: undefined"}
+{"level":30,"time":"2022-01-06T19:18:56.272Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Changed active page"}
+{"level":30,"time":"2022-01-06T19:19:00.128Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method newPage"}
+{"level":30,"time":"2022-01-06T19:19:00.132Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method getText"}
+{"level":30,"time":"2022-01-06T19:19:00.132Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with //span[contains(text(),'Nunca foi tão engraçado pedir comida')] in page."}
+{"level":30,"time":"2022-01-06T19:19:00.291Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Retrieved text for element //span[contains(text(),'Nunca foi tão engraçado pedir comida')] containing Nunca foi tão engraçado pedir comida"}
+{"level":30,"time":"2022-01-06T19:19:00.291Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method getText"}
+{"level":30,"time":"2022-01-06T19:19:00.298Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-06T19:19:00.298Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with text=Estou com fome! in page."}
+{"level":30,"time":"2022-01-06T19:19:00.513Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method click"}
+{"level":30,"time":"2022-01-06T19:19:00.518Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method getText"}
+{"level":30,"time":"2022-01-06T19:19:00.518Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with h1 strong in page."}
+{"level":30,"time":"2022-01-06T19:19:00.554Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Retrieved text for element h1 strong containing Ta na hora de matar a fome!"}
+{"level":30,"time":"2022-01-06T19:19:00.554Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method getText"}
+{"level":30,"time":"2022-01-06T19:19:00.558Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-06T19:19:00.558Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with .search-link in page."}
+{"level":30,"time":"2022-01-06T19:19:00.652Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method click"}
+{"level":30,"time":"2022-01-06T19:19:00.655Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-01-06T19:19:00.656Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with input[formcontrolname=\"searchControl\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:00.679Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method fillText"}
+{"level":30,"time":"2022-01-06T19:19:00.683Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:00.683Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:00.704Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -52,9 +52,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:30.760Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:30.760Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:30.769Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:00.713Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:00.713Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:00.727Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -76,9 +76,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:30.772Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:30.772Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:30.792Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:00.729Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:00.729Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:00.832Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -100,9 +100,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:30.795Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:30.795Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:30.815Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:00.834Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:00.834Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:00.847Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -124,9 +124,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:30.818Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:30.818Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:30.836Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:00.849Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:00.849Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:00.857Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -148,9 +148,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:30.841Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:30.841Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:30.850Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:00.862Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:00.862Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:00.876Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -172,9 +172,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:30.852Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:30.852Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:30.867Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:00.879Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:00.879Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:00.957Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -196,9 +196,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:30.869Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:30.869Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:30.884Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:00.963Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:00.963Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:00.983Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -220,9 +220,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:30.891Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:30.891Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:31.041Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:00.984Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:00.984Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:00.997Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -244,9 +244,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:31.044Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:31.044Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:31.068Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:00.999Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:00.999Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:01.011Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -268,9 +268,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:31.073Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:31.073Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:31.084Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.014Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.014Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:01.021Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -292,9 +292,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:31.086Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:31.086Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:31.100Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.023Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.023Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:01.031Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -316,9 +316,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:31.102Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:31.102Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:31.115Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.033Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.033Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:01.046Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -340,9 +340,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:31.117Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:31.117Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:31.127Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.047Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.047Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:01.061Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -364,9 +364,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:31.130Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:31.130Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:31.143Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.062Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.062Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:01.069Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -388,9 +388,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:31.145Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:31.145Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:31.153Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.071Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.071Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:01.081Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -412,9 +412,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:31.156Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:31.156Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:31.163Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.083Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.083Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:01.089Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -436,9 +436,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:31.165Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:31.165Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:31.174Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.091Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.091Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:01.098Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -460,9 +460,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:31.176Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:31.176Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:31.184Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.099Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.099Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:01.106Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -484,9 +484,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:31.186Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:31.186Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:31.194Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.107Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.107Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:01.114Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -508,9 +508,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:31.195Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:31.195Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:31.202Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.116Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.116Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:01.125Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -532,9 +532,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:31.203Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:31.204Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:31.210Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.126Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.126Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:01.132Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -556,9 +556,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:31.212Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:31.212Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:31.219Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.134Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.134Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:01.143Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -580,9 +580,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:31.221Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:31.221Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:31.227Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.144Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.144Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:01.151Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -604,9 +604,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:31.229Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:31.229Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:31.237Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.153Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.153Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:01.159Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -628,9 +628,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:31.239Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:31.239Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:31.247Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.161Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.161Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:01.167Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -652,9 +652,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:31.249Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:31.249Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:31.259Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.169Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.169Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:01.178Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -676,9 +676,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:31.261Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:31.261Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:31.269Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.179Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.180Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:01.187Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -700,9 +700,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:31.271Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:31.271Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:31.278Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.189Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.189Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:01.195Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -724,9 +724,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:31.279Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:31.279Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:31.286Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.196Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.196Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:01.204Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -748,9 +748,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:31.287Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:31.288Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:31.295Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.206Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.206Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:01.212Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -772,9 +772,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:31.297Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:31.297Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:31.303Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.216Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.217Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:01.223Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -796,9 +796,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:31.305Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:31.305Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:31.313Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.226Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.226Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:01.233Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -820,9 +820,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:31.315Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:31.315Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:31.360Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.234Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.234Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:01.241Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -844,9 +844,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:31.364Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:31.364Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:31.375Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.243Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.243Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:01.254Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -868,9 +868,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:31.376Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:31.376Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:31.388Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.257Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.257Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:01.266Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -892,9 +892,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:31.389Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:31.390Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:31.398Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.267Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.267Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:01.274Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -916,9 +916,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:31.400Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:31.400Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:31.408Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.275Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.275Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:01.282Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -940,52 +940,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:31.409Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:31.410Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:31.427Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:31.429Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method getText"}
-{"level":30,"time":"2022-01-06T19:07:31.429Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:31.438Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Retrieved text for element span[class=\"place-info-box-text\"] containing DEBUGER KING"}
-{"level":30,"time":"2022-01-06T19:07:31.438Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method getText"}
-{"level":30,"time":"2022-01-06T19:07:31.441Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method getElementCount"}
-{"level":30,"time":"2022-01-06T19:07:31.441Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is disabled, return Locator: span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:31.445Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method getElementCount"}
-{"level":30,"time":"2022-01-06T19:07:31.448Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method takeScreenshot"}
-{"level":30,"time":"2022-01-06T19:07:31.690Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method takeScreenshot"}
-{"level":30,"time":"2022-01-06T19:07:31.694Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method closeBrowser"}
-{"level":30,"time":"2022-01-06T19:07:32.058Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method closeBrowser"}
-{"level":30,"time":"2022-01-06T19:07:32.061Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2022-01-06T19:07:32.061Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2022-01-06T19:07:32.065Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2022-01-06T19:07:32.065Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2022-01-06T19:07:32.069Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method newBrowser"}
-{"level":30,"time":"2022-01-06T19:07:34.630Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method newBrowser"}
-{"level":30,"time":"2022-01-06T19:07:34.633Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method newPage"}
-{"level":30,"time":"2022-01-06T19:07:34.633Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"currentBrowser: [object Object]"}
-{"level":30,"time":"2022-01-06T19:07:34.643Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Changed active context"}
-{"level":30,"time":"2022-01-06T19:07:35.312Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Video path: undefined"}
-{"level":30,"time":"2022-01-06T19:07:35.312Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Changed active page"}
-{"level":30,"time":"2022-01-06T19:07:38.862Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method newPage"}
-{"level":30,"time":"2022-01-06T19:07:38.866Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method getText"}
-{"level":30,"time":"2022-01-06T19:07:38.867Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with //span[contains(text(),'Nunca foi tão engraçado pedir comida')] in page."}
-{"level":30,"time":"2022-01-06T19:07:39.022Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Retrieved text for element //span[contains(text(),'Nunca foi tão engraçado pedir comida')] containing Nunca foi tão engraçado pedir comida"}
-{"level":30,"time":"2022-01-06T19:07:39.022Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method getText"}
-{"level":30,"time":"2022-01-06T19:07:39.025Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method click"}
-{"level":30,"time":"2022-01-06T19:07:39.025Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with text=Estou com fome! in page."}
-{"level":30,"time":"2022-01-06T19:07:39.257Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method click"}
-{"level":30,"time":"2022-01-06T19:07:39.262Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method getText"}
-{"level":30,"time":"2022-01-06T19:07:39.262Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with h1 strong in page."}
-{"level":30,"time":"2022-01-06T19:07:39.295Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Retrieved text for element h1 strong containing Ta na hora de matar a fome!"}
-{"level":30,"time":"2022-01-06T19:07:39.295Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method getText"}
-{"level":30,"time":"2022-01-06T19:07:39.299Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method click"}
-{"level":30,"time":"2022-01-06T19:07:39.299Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with .search-link in page."}
-{"level":30,"time":"2022-01-06T19:07:39.387Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method click"}
-{"level":30,"time":"2022-01-06T19:07:39.389Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method fillText"}
-{"level":30,"time":"2022-01-06T19:07:39.390Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with input[formcontrolname=\"searchControl\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:39.410Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method fillText"}
-{"level":30,"time":"2022-01-06T19:07:39.414Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:39.414Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:39.428Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.284Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.284Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:01.290Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -1007,9 +964,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:39.434Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:39.434Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:39.444Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.292Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.292Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:01.299Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -1031,9 +988,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:39.449Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:39.449Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:39.461Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.300Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.301Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:01.308Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -1055,9 +1012,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:39.466Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:39.466Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:39.476Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.310Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.310Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:01.317Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -1079,9 +1036,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:39.478Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:39.478Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:39.545Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.318Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.318Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:01.326Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -1103,9 +1060,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:39.550Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:39.550Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:39.559Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.328Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.328Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:01.334Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -1127,9 +1084,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:39.561Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:39.561Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:39.574Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.336Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.336Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:01.343Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -1151,9 +1108,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:39.576Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:39.576Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:39.588Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.345Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.345Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:01.352Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -1175,9 +1132,64 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:39.589Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:39.589Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:39.603Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.353Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.353Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:01.365Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:01.367Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method getText"}
+{"level":30,"time":"2022-01-06T19:19:01.367Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:01.382Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Retrieved text for element span[class=\"place-info-box-text\"] containing DEBUGER KING"}
+{"level":30,"time":"2022-01-06T19:19:01.382Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method getText"}
+{"level":30,"time":"2022-01-06T19:19:01.384Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-01-06T19:19:01.384Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is disabled, return Locator: span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:01.388Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-01-06T19:19:01.393Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-01-06T19:19:01.608Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-01-06T19:19:01.613Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-01-06T19:19:01.615Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-01-06T19:19:01.617Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Changed active context"}
+{"level":30,"time":"2022-01-06T19:19:01.617Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Changing current active page"}
+{"level":30,"time":"2022-01-06T19:19:01.618Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Changed active page"}
+{"level":30,"time":"2022-01-06T19:19:01.623Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-01-06T19:19:01.631Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-01-06T19:19:01.635Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-01-06T19:19:01.635Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-01-06T19:19:01.636Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-01-06T19:19:01.637Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-01-06T19:19:01.643Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Changed active context"}
+{"level":30,"time":"2022-01-06T19:19:01.644Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Changing current active page"}
+{"level":30,"time":"2022-01-06T19:19:01.644Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Changed active page"}
+{"level":30,"time":"2022-01-06T19:19:01.646Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method closeContext"}
+{"level":30,"time":"2022-01-06T19:19:01.714Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method closeContext"}
+{"level":30,"time":"2022-01-06T19:19:01.762Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-01-06T19:19:01.763Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-01-06T19:19:01.780Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method newBrowser"}
+{"level":30,"time":"2022-01-06T19:19:04.675Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method newBrowser"}
+{"level":30,"time":"2022-01-06T19:19:04.678Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method newPage"}
+{"level":30,"time":"2022-01-06T19:19:04.678Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"currentBrowser: [object Object]"}
+{"level":30,"time":"2022-01-06T19:19:04.687Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Changed active context"}
+{"level":30,"time":"2022-01-06T19:19:05.431Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Video path: undefined"}
+{"level":30,"time":"2022-01-06T19:19:05.432Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Changed active page"}
+{"level":30,"time":"2022-01-06T19:19:09.224Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method newPage"}
+{"level":30,"time":"2022-01-06T19:19:09.228Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method getText"}
+{"level":30,"time":"2022-01-06T19:19:09.228Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with //span[contains(text(),'Nunca foi tão engraçado pedir comida')] in page."}
+{"level":30,"time":"2022-01-06T19:19:09.392Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Retrieved text for element //span[contains(text(),'Nunca foi tão engraçado pedir comida')] containing Nunca foi tão engraçado pedir comida"}
+{"level":30,"time":"2022-01-06T19:19:09.392Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method getText"}
+{"level":30,"time":"2022-01-06T19:19:09.395Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-06T19:19:09.395Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with text=Estou com fome! in page."}
+{"level":30,"time":"2022-01-06T19:19:09.642Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method click"}
+{"level":30,"time":"2022-01-06T19:19:09.646Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method getText"}
+{"level":30,"time":"2022-01-06T19:19:09.646Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with h1 strong in page."}
+{"level":30,"time":"2022-01-06T19:19:09.680Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Retrieved text for element h1 strong containing Ta na hora de matar a fome!"}
+{"level":30,"time":"2022-01-06T19:19:09.680Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method getText"}
+{"level":30,"time":"2022-01-06T19:19:09.683Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method click"}
+{"level":30,"time":"2022-01-06T19:19:09.684Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with .search-link in page."}
+{"level":30,"time":"2022-01-06T19:19:09.773Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method click"}
+{"level":30,"time":"2022-01-06T19:19:09.775Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method fillText"}
+{"level":30,"time":"2022-01-06T19:19:09.775Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with input[formcontrolname=\"searchControl\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:09.793Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method fillText"}
+{"level":30,"time":"2022-01-06T19:19:09.796Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:09.796Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:09.822Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -1199,9 +1211,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:39.604Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:39.605Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:39.615Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:09.825Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:09.825Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:09.842Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -1223,9 +1235,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:39.618Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:39.618Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:39.638Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:09.844Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:09.844Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:09.862Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -1247,9 +1259,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:39.641Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:39.642Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:39.750Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:09.864Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:09.865Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:09.945Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -1271,9 +1283,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:39.754Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:39.754Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:39.761Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:09.947Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:09.947Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:09.959Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -1295,9 +1307,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:39.763Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:39.763Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:39.774Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:09.961Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:09.961Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:09.974Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -1319,9 +1331,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:39.776Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:39.776Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:39.792Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:09.975Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:09.975Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:09.985Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -1343,9 +1355,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:39.794Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:39.794Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:39.805Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:09.988Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:09.988Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:09.996Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -1367,9 +1379,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:39.806Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:39.806Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:39.813Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:09.997Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:09.997Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:10.013Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -1391,9 +1403,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:39.814Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:39.814Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:39.821Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.015Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.015Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:10.036Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -1415,9 +1427,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:39.823Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:39.823Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:39.831Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.039Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.039Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:10.107Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -1439,9 +1451,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:39.833Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:39.833Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:39.840Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.109Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.109Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:10.125Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -1463,9 +1475,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:39.842Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:39.842Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:39.852Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.128Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.128Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:10.140Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -1487,9 +1499,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:39.854Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:39.854Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:39.866Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.142Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.142Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:10.152Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -1511,9 +1523,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:39.867Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:39.867Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:39.874Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.154Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.155Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:10.174Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -1535,9 +1547,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:39.876Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:39.876Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:39.885Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.176Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.177Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:10.196Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -1559,9 +1571,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:39.887Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:39.887Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:39.894Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.198Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.198Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:10.222Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -1583,9 +1595,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:39.896Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:39.897Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:39.903Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.225Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.225Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:10.237Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -1607,9 +1619,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:39.905Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:39.905Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:39.914Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.240Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.240Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:10.252Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -1631,9 +1643,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:39.915Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:39.916Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:39.922Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.254Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.254Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:10.269Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -1655,9 +1667,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:39.923Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:39.923Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:39.930Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.271Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.271Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:10.277Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -1679,9 +1691,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:39.931Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:39.931Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:39.938Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.279Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.279Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:10.286Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -1703,9 +1715,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:39.939Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:39.939Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:39.946Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.287Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.287Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:10.296Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -1727,9 +1739,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:39.947Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:39.947Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:39.954Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.298Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.298Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:10.306Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -1751,9 +1763,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:39.955Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:39.955Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:39.962Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.307Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.308Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:10.315Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -1775,9 +1787,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:39.965Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:39.965Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:39.971Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.316Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.316Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:10.323Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -1799,9 +1811,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:39.973Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:39.973Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:39.980Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.325Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.325Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:10.333Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -1823,9 +1835,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:39.981Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:39.981Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:39.989Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.335Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.335Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:10.341Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -1847,9 +1859,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:39.991Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:39.991Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:39.998Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.343Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.343Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:10.352Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -1871,9 +1883,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:39.999Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:39.999Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:40.006Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.353Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.353Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:10.360Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -1895,9 +1907,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:40.008Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:40.008Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:40.015Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.362Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.362Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:10.370Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -1919,9 +1931,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:40.017Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:40.017Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:40.023Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.371Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.371Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:10.380Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -1943,9 +1955,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:40.025Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:40.025Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:40.032Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.381Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.381Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:10.388Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -1967,9 +1979,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:40.033Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:40.033Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:40.040Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.390Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.390Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:10.398Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -1991,9 +2003,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:40.042Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:40.042Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:40.049Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.400Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.400Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:10.408Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -2015,9 +2027,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:40.050Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:40.050Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:40.058Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.410Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.410Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:10.416Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -2039,9 +2051,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:40.060Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:40.060Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:40.066Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.417Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.418Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:10.425Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -2063,9 +2075,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:40.068Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:40.068Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:40.075Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.426Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.426Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:10.433Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -2087,9 +2099,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:40.076Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:40.076Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:40.083Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.435Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.435Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:10.443Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -2111,9 +2123,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:40.084Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:40.084Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:40.091Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.444Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.444Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:10.451Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -2135,9 +2147,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:40.093Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:40.093Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:40.099Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.453Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.453Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:10.464Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -2159,9 +2171,9 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:40.103Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:40.103Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:40.114Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.465Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.465Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:10.472Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Error of node method  waitForElementState"}
 ================= Original suppressed error =================
 locator.waitFor: Error: strict mode violation: "span[class="place-info-box-text"]" resolved to 5 elements:
     1) <span class="place-info-box-text">Pizza Bug</span> aka playwright.$("text=Pizza Bug")
@@ -2183,23 +2195,35 @@ waiting for selector "span[class="place-info-box-text"]" to be visible
     at waitForElementState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:6135:20)
     at async PlaywrightServer.waitForElementsState (C:\Users\halison.r.vitorino\Dev\Python\lib\site-packages\Browser\wrapper\index.js:7287:28)
 =============================================================
-{"level":30,"time":"2022-01-06T19:07:40.116Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:40.117Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:40.149Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method waitForElementState"}
-{"level":30,"time":"2022-01-06T19:07:40.151Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method getText"}
-{"level":30,"time":"2022-01-06T19:07:40.151Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:40.161Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Retrieved text for element span[class=\"place-info-box-text\"] containing STARBUGS COFFEE"}
-{"level":30,"time":"2022-01-06T19:07:40.161Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method getText"}
-{"level":30,"time":"2022-01-06T19:07:40.170Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method getElementCount"}
-{"level":30,"time":"2022-01-06T19:07:40.170Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is disabled, return Locator: span[class=\"place-info-box-text\"] in page."}
-{"level":30,"time":"2022-01-06T19:07:40.173Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method getElementCount"}
-{"level":30,"time":"2022-01-06T19:07:40.176Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method takeScreenshot"}
-{"level":30,"time":"2022-01-06T19:07:40.453Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method takeScreenshot"}
-{"level":30,"time":"2022-01-06T19:07:40.457Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method closeBrowser"}
-{"level":30,"time":"2022-01-06T19:07:40.778Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method closeBrowser"}
-{"level":30,"time":"2022-01-06T19:07:40.780Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2022-01-06T19:07:40.781Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2022-01-06T19:07:40.783Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method getBrowserCatalog"}
-{"level":30,"time":"2022-01-06T19:07:40.783Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method getBrowserCatalog"}
-{"level":30,"time":"2022-01-06T19:07:40.844Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method closeAllBrowsers"}
-{"level":30,"time":"2022-01-06T19:07:40.844Z","pid":19964,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method closeAllBrowsers"}
+{"level":30,"time":"2022-01-06T19:19:10.474Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.474Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:10.516Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method waitForElementState"}
+{"level":30,"time":"2022-01-06T19:19:10.521Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method getText"}
+{"level":30,"time":"2022-01-06T19:19:10.521Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is enabled, find Locator with span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:10.529Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Retrieved text for element span[class=\"place-info-box-text\"] containing STARBUGS COFFEE"}
+{"level":30,"time":"2022-01-06T19:19:10.529Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method getText"}
+{"level":30,"time":"2022-01-06T19:19:10.531Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method getElementCount"}
+{"level":30,"time":"2022-01-06T19:19:10.531Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Strict mode is disabled, return Locator: span[class=\"place-info-box-text\"] in page."}
+{"level":30,"time":"2022-01-06T19:19:10.538Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method getElementCount"}
+{"level":30,"time":"2022-01-06T19:19:10.544Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method takeScreenshot"}
+{"level":30,"time":"2022-01-06T19:19:10.780Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method takeScreenshot"}
+{"level":30,"time":"2022-01-06T19:19:10.787Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-01-06T19:19:10.790Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-01-06T19:19:10.791Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Changed active context"}
+{"level":30,"time":"2022-01-06T19:19:10.791Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Changing current active page"}
+{"level":30,"time":"2022-01-06T19:19:10.791Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Changed active page"}
+{"level":30,"time":"2022-01-06T19:19:10.796Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-01-06T19:19:10.799Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-01-06T19:19:10.807Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-01-06T19:19:10.807Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-01-06T19:19:10.809Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method switchBrowser"}
+{"level":30,"time":"2022-01-06T19:19:10.810Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method switchBrowser"}
+{"level":30,"time":"2022-01-06T19:19:10.813Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Changed active context"}
+{"level":30,"time":"2022-01-06T19:19:10.813Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Changing current active page"}
+{"level":30,"time":"2022-01-06T19:19:10.813Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Changed active page"}
+{"level":30,"time":"2022-01-06T19:19:10.816Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method closeContext"}
+{"level":30,"time":"2022-01-06T19:19:10.902Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method closeContext"}
+{"level":30,"time":"2022-01-06T19:19:10.933Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method getBrowserCatalog"}
+{"level":30,"time":"2022-01-06T19:19:10.934Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method getBrowserCatalog"}
+{"level":30,"time":"2022-01-06T19:19:11.100Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"Start of node method closeAllBrowsers"}
+{"level":30,"time":"2022-01-06T19:19:11.506Z","pid":11584,"hostname":"CPX-PEF0LPD4OYZ","msg":"End of node method closeAllBrowsers"}
