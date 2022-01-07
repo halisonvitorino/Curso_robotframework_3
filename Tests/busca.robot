@@ -3,6 +3,8 @@ Resource                     ${EXECDIR}/resources/base.robot
 Test Setup                   Start Session
 Test Teardown                Take Screenshot  pass-screenshot-{index}
 
+*Variables
+
 *Test Cases
 Deve buscar um unico restaurante 
     Go To restaurants Page

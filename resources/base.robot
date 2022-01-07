@@ -1,7 +1,8 @@
 *Settings
 Documentation  Arquivo base do projeto
 Library        Browser 
-Resource       ${EXECDIR}/resources/actions/search.robot
+#Resource       ${EXECDIR}/resources/actions/buscaActions.robot
+Resource       ${EXECDIR}/resources/actions/carrinhoActions.robot
 
 *Keywords
 Start Session
