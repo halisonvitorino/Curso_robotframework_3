@@ -5,10 +5,6 @@ Documentation   Acoes da funcionalidade - Busca Restaurantes
 ${Div_Restaurant}            span[class="place-info-box-text"]    
 
 *Keywords
-Go To restaurants Page
-    Click                    text=Estou com fome! 
-    Get text                 h1 strong  contains  Ta na hora de matar a fome!
-
 Search Restaurants By 
     [Arguments]              ${value}
     Click                    .search-link

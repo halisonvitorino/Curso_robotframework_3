@@ -1,0 +1,13 @@
+{
+    "restaurante": "PIZZA BUG",
+    "desc": "Precisa corrigir bugs em produção depois do expediente? Peça Pizza Bug.",
+    "produtos": [
+        {
+            "nome_produto": "Pizza de peperoni"
+        },
+        {
+            "nome_produto": "Pizza de mussarela"
+        }
+    ],
+    "total": "18,40"
+}

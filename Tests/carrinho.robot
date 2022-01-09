@@ -4,29 +4,37 @@ Test Setup                        Start Session
 Test Teardown                     Take Screenshot  ${EXECDIR}/results/evidencias/pass-screenshot-{index}
 
 *Test Cases
-Deve adicionar um item ao carrinho
+
+Deve adicionar itens ao carrinho de acordo com o arquivo de massa
     [Tags]                        1
-    &{restaurante}                Create Dictionary  name=Pizza Bug  desc=Precisa corrigir bugs em produção depois do expediente? Peça Pizza Bug.
+    
+    ${massa_teste}                Get JSON  massa.json
    
     Go To restaurants Page  
-    Seleciona um restaurante      ${restaurante}    
-    Coloca o produto no carrinho  Pizza de peperoni    
-    Valida produto no carrinho    Pizza de peperoni
-    Valida total produto          15,90
+    Seleciona um restaurante      ${massa_teste}    
 
-Deve adicionar varios itens ao carrinho
+    FOR  ${produto}  IN  @{massa_teste["produtos"]}
+        Coloca o produto no carrinho  ${produto["nome_produto"]}    
+        Valida produto no carrinho    ${produto["nome_produto"]}
+    END
+
+    Valida total produto          ${massa_teste["total"]}
+
+
+Deve adicionar um item ao carrinho
     [Tags]                        2
-    &{restaurante}                Create Dictionary  name=Pizza Bug  desc=Precisa corrigir bugs em produção depois do expediente? Peça Pizza Bug.
-   
+    
+    &{restaurante}                Create dictionary  restaurante=PIZZA BUG  desc=Precisa corrigir bugs em produção depois do expediente? Peça Pizza Bug.
+    ${valor_total_esperado}       18,40  
+    
     Go To restaurants Page  
     Seleciona um restaurante      ${restaurante}    
     Coloca o produto no carrinho  Pizza de mussarela    
     Valida produto no carrinho    Pizza de mussarela
     Coloca o produto no carrinho  Pizza de peperoni    
     Valida produto no carrinho    Pizza de peperoni
-    Valida total produto          18,40
+    Valida total produto          ${valor_total_esperado}
 
-*Keywords
 
 
 
