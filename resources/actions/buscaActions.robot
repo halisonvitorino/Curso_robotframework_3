@@ -10,6 +10,12 @@ Search Restaurants By
     Click                    .search-link
     Fill text                input[formcontrolname="searchControl"]  ${value}
 
+Seleciona um restaurante 
+    [Arguments]              ${massa_teste}
+    Click                    text=${massa_teste["restaurante"]}
+    Wait for elements state  ${detalhe_restaurante}  visible  5
+    Get text                 ${detalhe_restaurante}  contains  ${massa_teste["desc"]}  
+
 Validate Search
     [Arguments]              ${value}  ${quantity}
     Wait for elements state  ${Div_Restaurant}  visible    5    

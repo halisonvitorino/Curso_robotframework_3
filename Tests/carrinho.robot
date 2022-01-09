@@ -24,16 +24,15 @@ Deve adicionar itens ao carrinho de acordo com o arquivo de massa
 Deve adicionar um item ao carrinho
     [Tags]                        2
     
-    &{restaurante}                Create dictionary  restaurante=PIZZA BUG  desc=Precisa corrigir bugs em produção depois do expediente? Peça Pizza Bug.
-    ${valor_total_esperado}       18,40  
-    
+    &{restaurante}                Create dictionary  restaurante=PIZZA BUG  desc=Precisa corrigir bugs em produção depois do expediente? Peça Pizza Bug. 
+
     Go To restaurants Page  
     Seleciona um restaurante      ${restaurante}    
     Coloca o produto no carrinho  Pizza de mussarela    
     Valida produto no carrinho    Pizza de mussarela
     Coloca o produto no carrinho  Pizza de peperoni    
     Valida produto no carrinho    Pizza de peperoni
-    Valida total produto          ${valor_total_esperado}
+    Valida total produto          18,40
 
 
 
