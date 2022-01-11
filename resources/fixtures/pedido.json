@@ -1,0 +1,25 @@
+{
+    "restaurante": "DEBUGER KING",
+    "desc": "40 anos se especializando em trash food.",
+    "produtos": [
+        {
+            "nome_produto": "Woopper Burger"
+        },
+        {
+            "nome_produto": "Batatas Fritas"
+        },
+        {
+            "nome_produto": "Refrigerante"
+        }
+    ],
+    "total": "28,50",
+    "cliente":{
+        "nome_cliente":"Halison Vitorino",
+        "emai":"halison@gmail.com",
+        "email2":"halison@gmail.com",
+        "endereco":"Rua 1",
+        "numero":"10",
+        "complemento":"Condominio"
+    },
+    "forma_pagamento":"Cartão Refeição"   
+}
