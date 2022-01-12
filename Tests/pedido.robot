@@ -20,6 +20,7 @@ Deve realizar um novo pedido
     Aciona Fechar Pedido
     Preenche dados pessoais          ${massa_teste_pedido["cliente"]}
     Seleciona forma de pagamento     ${massa_teste_pedido}
+    Finaliza transacao 
 
 *Keywords
 Aciona Fechar Pedido      
@@ -49,6 +50,9 @@ Seleciona forma de pagamento
     ELSE IF      '${massa_teste_pedido["forma_pagamento"]}'=="Cartão Refeição"
     click        xpath=(//mt-radio//div//label)[3]//div
 
-    END
- 
+    END 
     log          Selecionado ${massa_teste_pedido["forma_pagamento"]} como forma de pagamento
+
+Finaliza transacao 
+    click        css=.btn-success
+    get text     xpath=//h2[contains(text(),'Pedido Conluído')]  contains  Pedido Conluído
